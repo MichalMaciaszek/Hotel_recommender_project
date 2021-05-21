@@ -2,9 +2,10 @@
 
 Author: Michał Maciaszek
 
-## Preparing your computer
+## Requirements
 
-Working on Python 3.7.9 and higher
+Python 3.7.9 or higher
+
 
 
 
