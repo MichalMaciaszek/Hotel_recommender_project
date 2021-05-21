@@ -1,4 +1,4 @@
-# Recommender Systems class
+# Hotel recommender
 
 Author: Michał Maciaszek
 
